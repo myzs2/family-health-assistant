@@ -1,0 +1,5 @@
+.env
+*.pdf
+data/
+__pycache__/
+.DS_Store
